@@ -25,3 +25,4 @@ After a foul, the clock stops while the fouled player shoots free throws.  While
 ## Time to advance the ball or to foul:  
 
 It takes some time to advance the ball up the court to attempt a two point shot.  We will need to account for this.  It also takes some time (usually a bit less) to commit a foul to stop the clock.
+
